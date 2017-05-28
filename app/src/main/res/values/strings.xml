@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Planning</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="already_account">Do you already have an account?</string>
+    <string name="login_here">Log in here!</string>
+    <string name="new_user">Are you a new user?</string>
+    <string name="create_account">Create an account here!</string>
+    <string name="hello_user">Hello, User!</string>
+    <string name="logout">Logout</string>
+    <string name="place_holder_task">Your task here</string>
+    <string name="add_task">Add Task</string>
+    <string name="register_here">Register here!</string>
+    <string name="message_user">Message for User</string>
+    <string name="username">Username</string>
+    <string name="signin">Sign In</string>
+    <string name="pass">Password</string>
+    <string name="register">Register</string>
+    <string name="passc">Confirm Password</string>
+    <string name="phone">Phone Number</string>
+    <string name="task">Task</string>
+    <string name="delete">Delete</string>
+</resources>
